@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Railway
+*.log
+
+# Sensitive data
+*.pem
+*.key
